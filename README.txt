@@ -8,6 +8,10 @@ The following three csv files contain data that is used by the TDABM model
 - exp_vars(full_v2).csv #Full complement of census 2021 output questions considered
 - inc_vars.csv #Supplementary Variables used during analysis
 
+######################## Schema ################################
+Summary of the variables held within each of the data files
+- data_schema.xlsx
+
 ####################### CPP Reader ###########################
 Used in the R Script to improve run times
 - BallMapper.cpp
